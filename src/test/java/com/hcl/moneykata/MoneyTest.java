@@ -1,4 +1,4 @@
-package com.hcl.wallet;
+package com.hcl.moneykata;
 
 import org.junit.jupiter.api.Test;
 
